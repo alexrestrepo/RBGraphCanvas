@@ -4,7 +4,7 @@ A canvas that will draw an x,y line graph of one or multiple "datasets", you can
 Not a replacement for excel :P but quite useful for simple graphs.
 
 Uses the XMLDictionary extension by Kevin Ballard to save and load graph data.
-http://www.tildesoft.com(http://www.tildesoft.com)
+http://www.tildesoft.com
 
 `License`
 
